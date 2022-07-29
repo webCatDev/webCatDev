@@ -8,6 +8,6 @@
 - **🔪 Libraries:** React.JS
 - **⚔ Frameworks:** Next.JS
 - **⚙ Preprocessors:** SASS(SCSS)
-- **🛠 Tools:** Parcel.js, Netlify, Vercel, Vite, 
+- **🛠 Tools:** Parcel.js, Netlify, Vercel, Vite
 
 
