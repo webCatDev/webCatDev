@@ -6,7 +6,7 @@
 # Languages and Tools I Use
 - **📚 Languages:** HTML, CSS, JavaScript, SQL, NOSQL
 - **🔪 Libraries:** React.JS
-- **⚔ Frameworks:** Next.JS
+- **⚔ Frameworks:** Next.JS, TailwindCSS
 - **⚙ Preprocessors:** SASS(SCSS)
 - **🛠 Tools:** Parcel.js, Netlify, Vercel, Vite
 
