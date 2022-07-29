@@ -10,4 +10,10 @@
 - **⚙ Preprocessors:** SASS(SCSS)
 - **🛠 Tools:** Parcel.js, Netlify, Vercel, Vite
 
+# My Hobbies
+- 💻 Coding
+- 🤸‍♂️ Calisthenics
+- 🎞 Watching anime
+- 📖 Reading webtoon
+
 
